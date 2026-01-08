@@ -2,7 +2,7 @@
 #Author: Gabriel Venegas
 #Github:GVenegas1
 #Jan/7/2026
-#Discription:  This script defines a function that calculates similarity between
+#Discription:This script defines a function that calculates similarity between
 # a target string and a list of strings using fuzzy matching.
 
 # Import fuzz module from fuzzywuzzy
