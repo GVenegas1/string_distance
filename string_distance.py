@@ -7,7 +7,7 @@
 from fuzzywuzzy import fuzz
 
 def string_distance(string_list, target):
-    """Takes a list of strings and a target string.
+    """Takes a list of strings and a target string, and returns the distance
     Returns a dictionary where keys are strings from the list"""
 
     # Empty dictionary to store results
